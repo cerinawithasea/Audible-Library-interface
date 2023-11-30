@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "He's so good at firing employees, people call him the Axe. But he'll regretting letting Steve go for the rest of his life.... \"Close the Door and Have a Seat\" appears in M. J. Pack's debut short story collection, Certain Dark Things, offering up a new breed of terror sure to delight any true horror fan."; 

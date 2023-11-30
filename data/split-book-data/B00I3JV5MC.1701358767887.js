@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Emma Chavet and her father are winemakers who stubbornly cling to the old ways. But when an unwelcome offer comes to buy their business, they must face the new realities of a Green society.</p> <p>This story was originally published in the Audie Award-winning <i>METAtropolis: Cascadia.</i></p>"; 

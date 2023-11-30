@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "That Chapter Podcast is your home for the craziest true crime cases, weirdest plots, and strangest horrors from around the world. That Chapter Podcast has it all, telling you the scariest stories with a little laugh or two along the way. For business enquires please email thatchapter@night.co"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When a night watchman finishes his shift at work, he is terrified to discover that everyone in the world who went to sleep the previous night has died. Now he and a band of survivors must stay awake and uncover the secret of this global epidemic, before they fall asleep. Starring and produced by Markiplier. Created by Jake Emanuel & Willie Block."; 

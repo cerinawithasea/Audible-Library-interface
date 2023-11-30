@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The disappearance of two of Lori Vallow’s children in Rexburg, Idaho in September 2019 would expose a bizarre trail of death, devotion and Doomsday beliefs that captivated the nation… A haunting podcast from Keith Morrison and Dateline NBC."; 

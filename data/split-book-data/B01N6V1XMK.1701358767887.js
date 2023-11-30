@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Scary stories are mandatory at middle school sleepovers. But that's all they are — stories. I never expected the Skinstealer to really show up...and neither did Kevin. \"The Skinstealer\" appears in M. J. Pack's debut short story collection, Certain Dark Things, offering up a new breed of terror sure to delight any true horror fan."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The only thing harder for this child to deal with than the death of a father is dealing with what happens when that father comes back. \"Fuimus Non Sumus\" is a short horror story that appears in M.J. Pack's collection <i>Certain Dark Things</i>, also available on Audible.com"; 

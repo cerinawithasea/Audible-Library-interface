@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>More than a century later, the death of Jane Stanford remains shrouded in mystery.&nbsp; Who would want the founder of Stanford University and one of the richest women in the world dead? And why?</p>"; 

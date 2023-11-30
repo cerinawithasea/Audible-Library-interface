@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "She knew what had to be done. In the face of an impending apocalypse, a woman takes drastic measures to save the man she loves from oblivion. \"Dovere\" appears in M. J. Pack's debut short story collection, Certain Dark Things, offering up a new breed of terror sure to delight any true horror fan."; 

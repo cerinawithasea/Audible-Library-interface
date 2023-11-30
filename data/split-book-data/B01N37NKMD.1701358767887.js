@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A ghost hunter tells a fan the story of the scariest thing he's ever seen. \"Drains in the Floor\" appears in M. J. Pack's debut short story collection, <i>Certain Dark Things</i>, offering up a new breed of terror sure to delight any true horror fan."; 

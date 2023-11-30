@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When a woman places an ad on Craigslist, what she gets is unexpected, but then again, so is she. \"Women Seeking Men\" is a short story which appears in M.J. Park’s collection <i>Certain Dark Things</i>, also available on Audible.com."; 

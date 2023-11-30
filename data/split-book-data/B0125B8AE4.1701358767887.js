@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this psychological suspense novel, an ex-cop who has just resigned from the police force is drawn back into a nightmarish race against time to find the killer who murdered his friend. The only clue he finds leads to a senior man in the local branch of the Samaritans. </p>"; 
